@@ -1,4 +1,4 @@
-## <img width="30" alt="Rowlet" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/Rowlet.png"> 𝚅𝚒𝚗𝚗 ༒ 𝙻𝚒𝚗𝚐𝚏𝚎𝚗𝚐 𝚉𝚑𝚞  <img alt="GitHub followers" src="https://img.shields.io/github/followers/LingfengZhu?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Vinn85171873?style=social"></a>
+## <img width="30" alt="Rowlet" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/Rowlet.png"> ᐯIᑎᑎ ༒ 𝙻𝚒𝚗𝚐𝚏𝚎𝚗𝚐 𝚉𝚑𝚞  <img alt="GitHub followers" src="https://img.shields.io/github/followers/LingfengZhu?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Vinn85171873?style=social"></a>
 <img align="right" width="300" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/rowlet.gif" />
 
 ```Python
@@ -34,7 +34,7 @@ class Vinn(Programmer):
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
 
 <p>
-<img src="https://i.imgur.com/cz15XcX.gif" align="right">
+<img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/rowlet.gif" align="right">
 </div>
 <div>
 
