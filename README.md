@@ -33,7 +33,10 @@ class Vinn(Programmer):
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
 
-
+<p>
+<img src="https://i.imgur.com/cz15XcX.gif" align="right">
+</div>
+<div>
 
 <div>
 <p align="center">
