@@ -1,4 +1,4 @@
-## <img width="30" alt="Rowlet" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/Rowlet.png"> ᐯIᑎᑎ ༒ 𝙻𝚒𝚗𝚐𝚏𝚎𝚗𝚐 𝚉𝚑𝚞  <img alt="GitHub followers" src="https://img.shields.io/github/followers/LingfengZhu?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Vinn85171873?style=social"></a>
+## <img width="30" alt="Rowlet" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/Rowlet.png"> ᐯIᑎᑎ ༒ 𝙻𝚒𝚗𝚐𝚏𝚎𝚗𝚐 𝚉𝚑𝚞 ![Pokémon Master](https://img.shields.io/badge/-Pokémon_Master-f8d030) <img alt="GitHub followers" src="https://img.shields.io/github/followers/LingfengZhu?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Vinn85171873?style=social"></a>
 <img align="right" width="300" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/rowlet.gif" />
 
 ```Python
