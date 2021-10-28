@@ -34,7 +34,7 @@ class Vinn(Programmer):
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
 
 <p>
-<img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/rowlet.gif" align="right">
+<img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/homework.gif" align="right">
 </div>
 <div>
 
