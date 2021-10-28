@@ -11,21 +11,9 @@ class Vinn(Programmer):
         print('An enigma as vexing as life itself.')
 ```
 
-## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-
 ## **GitHub Estatísticas**
+
+<img align="left" width="245" height="600" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/pokemon.gif" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LingfengZhu&theme=monokai)
@@ -33,6 +21,7 @@ class Vinn(Programmer):
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
 
+## **Linguagens e Ferramentas:**  
 <p>
 <img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/homework.gif" align="right">
 </div>
@@ -62,28 +51,19 @@ class Vinn(Programmer):
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  /><br />
-   <img
-    src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"
   /><br />
   <img
-    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
   /><br />
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -103,14 +83,3 @@ class Vinn(Programmer):
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
   /><br />
-  <img
-    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  />
-  <br /><br />
-<br>
