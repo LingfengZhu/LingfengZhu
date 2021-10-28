@@ -1,5 +1,5 @@
 ## <img width="30" alt="Rowlet" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/Rowlet.png">  ꪜ𝓲ꪀꪀ ༒ 𝙻𝚒𝚗𝚐𝚏𝚎𝚗𝚐 𝚉𝚑𝚞  <img alt="GitHub followers" src="https://img.shields.io/github/followers/LingfengZhu?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Vinn85171873?style=social"></a>
-<img align="right" width="300" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/homework.gif" />
+<img align="right" width="300" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/rowlet.gif" />
 
 ```Python
 class Vinn(Programmer):
@@ -32,13 +32,3 @@ class Vinn(Programmer):
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
-
-
-## **Rede Sociais!**
-
-<a href="https://www.instagram.com/okami.mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="33" width="130" /></a> <br>
-**Bitcoin <br>
-  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>**
