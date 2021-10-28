@@ -22,7 +22,7 @@ class Vinn(Programmer):
 
 <br /><br />
 
-## **Linguagens e Ferramentas:**  
+## **Linguagens e Ferramentas**  
 <p>
 <img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/homework.gif" align="right">
 </div>
