@@ -13,11 +13,18 @@ class Vinn(Programmer):
 
 ## **GitHub Estatísticas**
 
-<img align="left" width="245" height="600" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/pokemon.gif" />
+<img align="left" width="245" height="200" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/fire.gif" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LingfengZhu&theme=monokai)
+
+<img align="left" width="250" height="200" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/water.gif" />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LingfengZhu&theme=monokai)
+
+
+<img align="left" width="250" height="200" src="https://github.com/LingfengZhu/LingfengZhu/blob/main/grass.gif" />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingfengZhu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LingfengZhu&theme=monokai)
 
