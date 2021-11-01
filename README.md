@@ -28,7 +28,7 @@ class Vinn(Programmer):
 
 ## **Linguagens e Ferramentas**  
 <p>
-<img src="https://github.com/LingfengZhu/LingfengZhu/blob/main/kotori2.gif" align="right">
+<img width=360 src="https://github.com/LingfengZhu/LingfengZhu/blob/main/kotori2.gif" align="right">
 </div>
 <div>
 
