@@ -91,9 +91,9 @@ class Vinn(Programmer):
 
 
 <details open>
-<summary>Weekly language Card</summary>
+<summary>Today's Mood</summary>
  
-some content
+Her face is sweet smile, like a blooming rose.
 
 
 <br/>
